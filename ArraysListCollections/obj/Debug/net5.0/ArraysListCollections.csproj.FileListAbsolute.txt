@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/bin/Debug/net5.0/ArraysListCollections.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/bin/Debug/net5.0/ArraysListCollections.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/bin/Debug/net5.0/ArraysListCollections.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/bin/Debug/net5.0/ArraysListCollections.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/bin/Debug/net5.0/ref/ArraysListCollections.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/bin/Debug/net5.0/ArraysListCollections.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ref/ArraysListCollections.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/ArraysListCollections/obj/Debug/net5.0/ArraysListCollections.genruntimeconfig.cache
