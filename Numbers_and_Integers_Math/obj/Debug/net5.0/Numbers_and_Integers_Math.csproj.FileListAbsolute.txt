@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/bin/Debug/net5.0/Numbers_and_Integers_Math.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/bin/Debug/net5.0/Numbers_and_Integers_Math.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/bin/Debug/net5.0/Numbers_and_Integers_Math.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/bin/Debug/net5.0/Numbers_and_Integers_Math.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/bin/Debug/net5.0/ref/Numbers_and_Integers_Math.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/bin/Debug/net5.0/Numbers_and_Integers_Math.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/ref/Numbers_and_Integers_Math.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integers_Math/obj/Debug/net5.0/Numbers_and_Integers_Math.genruntimeconfig.cache
