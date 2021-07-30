@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/bin/Debug/net5.0/Branches_and_Loops.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/bin/Debug/net5.0/Branches_and_Loops.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/bin/Debug/net5.0/Branches_and_Loops.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/bin/Debug/net5.0/Branches_and_Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/bin/Debug/net5.0/ref/Branches_and_Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/bin/Debug/net5.0/Branches_and_Loops.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/ref/Branches_and_Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Branches_and_Loops/obj/Debug/net5.0/Branches_and_Loops.genruntimeconfig.cache
