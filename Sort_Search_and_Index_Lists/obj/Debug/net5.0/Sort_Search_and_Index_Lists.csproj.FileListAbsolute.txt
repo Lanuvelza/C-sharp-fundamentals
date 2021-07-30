@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/bin/Debug/net5.0/Sort_Search_and_Index_Lists.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/bin/Debug/net5.0/Sort_Search_and_Index_Lists.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/bin/Debug/net5.0/Sort_Search_and_Index_Lists.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/bin/Debug/net5.0/Sort_Search_and_Index_Lists.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/bin/Debug/net5.0/ref/Sort_Search_and_Index_Lists.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/bin/Debug/net5.0/Sort_Search_and_Index_Lists.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/ref/Sort_Search_and_Index_Lists.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Sort_Search_and_Index_Lists/obj/Debug/net5.0/Sort_Search_and_Index_Lists.genruntimeconfig.cache
