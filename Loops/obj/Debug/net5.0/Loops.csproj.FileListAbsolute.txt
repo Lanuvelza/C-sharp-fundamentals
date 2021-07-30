@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/bin/Debug/net5.0/Loops.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/bin/Debug/net5.0/Loops.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/bin/Debug/net5.0/Loops.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/bin/Debug/net5.0/Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/bin/Debug/net5.0/ref/Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/bin/Debug/net5.0/Loops.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/ref/Loops.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Loops/obj/Debug/net5.0/Loops.genruntimeconfig.cache
