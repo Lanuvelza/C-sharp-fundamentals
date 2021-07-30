@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/bin/Debug/net5.0/Numbers_and_Integer_Precision.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/bin/Debug/net5.0/Numbers_and_Integer_Precision.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/bin/Debug/net5.0/Numbers_and_Integer_Precision.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/bin/Debug/net5.0/Numbers_and_Integer_Precision.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/bin/Debug/net5.0/ref/Numbers_and_Integer_Precision.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/bin/Debug/net5.0/Numbers_and_Integer_Precision.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/ref/Numbers_and_Integer_Precision.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Integer_Precision/obj/Debug/net5.0/Numbers_and_Integer_Precision.genruntimeconfig.cache
