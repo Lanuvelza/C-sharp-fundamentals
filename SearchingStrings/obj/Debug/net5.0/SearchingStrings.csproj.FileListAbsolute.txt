@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/bin/Debug/net5.0/SearchingStrings.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/bin/Debug/net5.0/SearchingStrings.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/bin/Debug/net5.0/SearchingStrings.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/bin/Debug/net5.0/SearchingStrings.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/bin/Debug/net5.0/ref/SearchingStrings.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/bin/Debug/net5.0/SearchingStrings.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/ref/SearchingStrings.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/SearchingStrings/obj/Debug/net5.0/SearchingStrings.genruntimeconfig.cache
