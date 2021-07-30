@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/bin/Debug/net5.0/Lists_Other_Types.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/bin/Debug/net5.0/Lists_Other_Types.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/bin/Debug/net5.0/Lists_Other_Types.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/bin/Debug/net5.0/Lists_Other_Types.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/bin/Debug/net5.0/ref/Lists_Other_Types.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/bin/Debug/net5.0/Lists_Other_Types.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/ref/Lists_Other_Types.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Lists_Other_Types/obj/Debug/net5.0/Lists_Other_Types.genruntimeconfig.cache
