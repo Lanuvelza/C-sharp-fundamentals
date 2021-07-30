@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/bin/Debug/net5.0/Numbers_and_Decimals.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/bin/Debug/net5.0/Numbers_and_Decimals.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/bin/Debug/net5.0/Numbers_and_Decimals.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/bin/Debug/net5.0/Numbers_and_Decimals.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/bin/Debug/net5.0/ref/Numbers_and_Decimals.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/bin/Debug/net5.0/Numbers_and_Decimals.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/ref/Numbers_and_Decimals.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Numbers_and_Decimals/obj/Debug/net5.0/Numbers_and_Decimals.genruntimeconfig.cache
