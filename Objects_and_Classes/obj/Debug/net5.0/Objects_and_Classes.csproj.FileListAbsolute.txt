@@ -1,0 +1,15 @@
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/bin/Debug/net5.0/Objects_and_Classes.deps.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/bin/Debug/net5.0/Objects_and_Classes.runtimeconfig.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/bin/Debug/net5.0/Objects_and_Classes.runtimeconfig.dev.json
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/bin/Debug/net5.0/Objects_and_Classes.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/bin/Debug/net5.0/ref/Objects_and_Classes.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/bin/Debug/net5.0/Objects_and_Classes.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.csproj.AssemblyReference.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.AssemblyInfoInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.AssemblyInfo.cs
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.csproj.CoreCompileInputs.cache
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/ref/Objects_and_Classes.dll
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.pdb
+/Users/ianlam/projects-after-lighthouse/c-sharp-fundamentals/C-sharp-fundamentals/Objects_and_Classes/obj/Debug/net5.0/Objects_and_Classes.genruntimeconfig.cache
